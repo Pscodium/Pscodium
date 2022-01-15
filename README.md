@@ -3,7 +3,7 @@
 
 ```javascript
 const Peterson Larson = {
-    pronouns: "he" | "him",
+    pronouns: "ele" | "delas",
     code: [Nodejs, Typescript, Python],
     askMeAbout: ["devops", "backend", "crypto", "music", "games"],
     technologies: {
