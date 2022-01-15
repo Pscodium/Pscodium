@@ -28,7 +28,7 @@
 
 - 🤝 My last own project was [SkyBlue Service Manager](https://github.com/Pscodium/Python-Projeto-Tecnico)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pscodium?tab=repositories](https://github.com/Pscodium?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Pscodium](https://github.com/Pscodium?tab=repositories)
 
 - 💬 Ask me about **Python, Node.js, Typescript**
 
