@@ -3,7 +3,7 @@
 
 ```javascript
 const Peterson Larson = {
-    pronouns: "ele" | "delas",
+    pronouns: "he" | "him",
     code: [Nodejs, Typescript, Python],
     askMeAbout: ["devops", "backend", "crypto", "music", "games"],
     technologies: {
@@ -21,7 +21,7 @@ const Peterson Larson = {
     devops: [Kubernetes, Docker, Kafka],
     utils: {
         system: {
-            linux: ["vscode", "postman", "imsomnia", "beekeeper"],
+            linux: ["vscode", "postman", "insomnia", "beekeeper"],
             windows: ["vscode", "unity", "docker"],       
         },
         games: {
