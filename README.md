@@ -4,8 +4,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pscodium&show_icons=true&theme=tokyonight&bg_color=120c3b&locale=en" alt="pscodium" /></p>
 
-<h3 align="center">A Brazilian backend developer</h3>
-
 
 - 🔭 I’m currently working on [Imobo Startup](https://imobo.com.br/)
 
