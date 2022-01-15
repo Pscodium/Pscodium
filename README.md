@@ -1,8 +1,9 @@
 <h1 align="center">Hello World 🌎, I'm Peterson Larson</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pscodium&show_icons=true&theme=cobalt&title_color=ffffff&text_color=ffffff&bg_color=120c3b&locale=en&layout=compact" alt="pscodium" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pscodium&show_icons=true&theme=tokyonight&bg_color=120c3b&locale=en" alt="pscodium" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pscodium&show_icons=true&theme=cobalt&title_color=ffffff&text_color=ffffff&bg_color=120c3b&locale=en&layout=compact" alt="pscodium" /></p>
 
 
 - 🔭 I’m currently working on [Imobo Startup](https://imobo.com.br/)
