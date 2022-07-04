@@ -13,7 +13,7 @@ const Peterson Larson = {
             python: ["flask", "django", "pandas", "peewee"]
         },
         frontEnd: {
-            react.js: ["react-native"],
+            react: ["react-native"],
             html: ["bootstrap"],
         }        
     },
