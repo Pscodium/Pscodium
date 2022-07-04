@@ -5,14 +5,15 @@
 const Peterson Larson = {
     pronouns: "he" | "him",
     code: [Nodejs, Typescript, Python],
-    askMeAbout: ["devops", "backend", "crypto", "music", "games"],
+    askMeAbout: ["react-native", "react-js", "javascript", "frontend","devops", "backend", "crypto", "music", "games"],
     technologies: {
         backEnd: {
             nodejs: ["express"],
-            typescript: ["nest.js", "typeorm", "featherjs"],
+            typescript: ["nest.js", "typeorm", "featherjs", "react-native"],
             python: ["flask", "django", "pandas", "peewee"]
         },
         frontEnd: {
+            react-js: ["react-native"],
             html: ["bootstrap"],
         }        
     },
