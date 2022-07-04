@@ -46,9 +46,9 @@ const Peterson Larson = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pscodium&show_icons=true&theme=cobalt&title_color=ffffff&text_color=ffffff&bg_color=120c3b&locale=en&layout=compact" alt="pscodium" /></p>
 
 
-- 🔭 I’m currently working on [Imobo Startup](https://imobo.com.br/)
+- 🔭 I’m currently working on [Camerite](https://camerite.com/)
 
-- 🌱 I’m currently learning **TypeORM, Nest.js, Flask, SQLAlchemy**
+- 🌱 I’m currently learning **Clean Code, Clean Architecture and DevOps Culture**
 
 - 👯 I'm working on my own project called [Order Manager](https://github.com/Pscodium/gestor-pedidos)
 
@@ -56,7 +56,7 @@ const Peterson Larson = {
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/Pscodium?tab=repositories)
 
-- 💬 Ask me about **Python, Node.js, Typescript**
+- 💬 Ask me about **Python, Node.js, Typescript, React native, Javascript, ReactJs**
 
 - 📫 How to reach me **peter-larson@hotmail.com**
 
