@@ -4,7 +4,7 @@
 ```javascript
 const Peterson Larson = {
     code: [Nodejs, Typescript, Python],
-    askMeAbout: ["react-native", "react-js", "javascript", "frontend","devops", "backend", "crypto", "music", "games"],
+    askMeAbout: ["react-native", "react-js", "javascript", "frontend", "devops", "backend", "music", "games"],
     technologies: {
         backEnd: {
             nodejs: ["express"],
