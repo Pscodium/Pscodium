@@ -4,11 +4,11 @@
 ```javascript
 const Peterson Larson = {
     code: [Nodejs, Typescript, Python],
-    askMeAbout: ["react-native", "react-js", "javascript", "frontend", "devops", "backend", "music", "games"],
+    askMeAbout: [ "typescript", "javascript", "frontend", "devops", "react-native", "react-js", "backend", "music", "games"],
     technologies: {
         backEnd: {
-            nodejs: ["express"],
-            typescript: ["nest.js", "typeorm", "featherjs", "react-native"],
+            nodejs: ["express", "sequelize", "prismaorm", "awillix"],
+            typescript: ["nest.js", "typeorm", "featherjs", "awillix", "tsyringe"],
             python: ["flask", "django", "pandas", "peewee"]
         },
         frontEnd: {
@@ -18,7 +18,8 @@ const Peterson Larson = {
     },
     
     databases: [PostgreSQL, MongoDB, MySQL, SQLite],
-    devops: [Kubernetes, Docker, Kafka],
+    cloud: [DigitalOcean, AWS, Azure],
+    services: [S3, RDS, SQS, Lambda, Serveless, SNS, SES, Tables, Az. Functions, Droplets],
     utils: {
         system: {
             linux: ["vscode", "postman", "insomnia", "beekeeper"],
@@ -42,13 +43,13 @@ const Peterson Larson = {
 </div> 
 
  
-- 🔭 I’m currently working on [Loopert](https://loopert.com/)
+- 🔭 I’m currently working on [PagoNxt](https://www.pagonxt.com/)
 
-- 🌱 I’m currently learning **Clean Code, Clean Architecture and DevOps Culture**
+- 🌱 I’m currently learning **Clean arch, DDD, Ports and Adapters**
 
-- 👯 I'm working on my own project called [Core Forum Base API](https://github.com/ForumLabs/core-forum-base)
+- 👯 I'm working on my own project called [File Storage](https://github.com/Pscodium/file-storage)
 
-- 🤝 My last own project was [Elden Ring API](https://github.com/Pscodium/elden-ring-api)
+- 🤝 My last own project was [DDD hexagonal rest example](https://github.com/Pscodium/ddd-hexagonal-rest-example)
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/Pscodium?tab=repositories)
 
