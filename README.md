@@ -4,7 +4,7 @@
 ```javascript
 const Peterson Larson = {
     code: [Nodejs, Typescript, Python],
-    askMeAbout: [ "typescript", "javascript", "frontend", "devops", "react-native", "react-js", "backend", "music", "games"],
+    askMeAbout: [ "typescript", "hexagonal arch", "clean arch", "driven-domain design", "microservices"],
     technologies: {
         backEnd: {
             nodejs: ["express", "sequelize", "prismaorm", "awillix"],
@@ -17,7 +17,7 @@ const Peterson Larson = {
         }        
     },
     
-    databases: [PostgreSQL, MongoDB, MySQL, SQLite],
+    databases: [PostgreSQL, MongoDB, MySQL, SQLite, RDS, Firestore, Redis],
     cloud: [DigitalOcean, AWS, Azure],
     services: [S3, RDS, SQS, Lambda, Serveless, SNS, SES, Tables, Az. Functions, Droplets],
     utils: {
